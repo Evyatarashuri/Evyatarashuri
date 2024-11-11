@@ -12,14 +12,11 @@ I am a passionate self-learner, backend developer, and computer science student.
 - **Other**: Algorithms & Data Structures 🧩, LeetCode Challenges 💡, Memory Management 🔧
 
 ## Projects 🚀
-### [Django Web Application](https://github.com/evyatarashuri/django-web-app) 🌍
+### [Django Web Application](https://github.com/Evyatarashuri/ChatConnect) 🌍
 A scalable backend application built with Django. The project demonstrates CRUD operations, database interactions, and the use of Django ORM. 📦
 
-### [Python Data Processing Tool](https://github.com/evyatarashuri/python-data-tool) 🧑‍💻
-A data processing tool built with Python that handles large datasets, performs transformations, and stores the results in a relational database. 🔄
-
-### [RESTful API with Flask](https://github.com/evyatarashuri/flask-api) 🌐
-A simple yet powerful REST API built with Flask. It integrates with a database to manage data and supports CRUD operations over HTTP. 📡
+### [Flask App for OpenAI Integration](https://github.com/Evyatarashuri/flask_app) 🌍
+A Flask-based backend application that integrates with the OpenAI API. It accepts questions via a `/ask` endpoint, retrieves answers from OpenAI, and stores them in a PostgreSQL database. The project is fully dockerized and managed using Docker Compose. 📦
 
 ## Experience 💼
 - **Backend Development**: Building robust APIs and backend logic for web applications. 🖥️
